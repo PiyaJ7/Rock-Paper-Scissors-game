@@ -6,6 +6,9 @@ A simple Rock, Paper, Scissors game implemented in HTML, CSS & JavaScript.
 
 This is a basic implementation of the classic Rock, Paper, Scissors game. It allows users to play against the computer and test their luck and strategy.
 
+## 📷 Project Screenshots
+![Project screenshot](https://github.com/PiyaJ7/Rock-Paper-Scissors-game/assets/138842869/a9cd9c31-f9fe-44f3-920c-7b52bcbd4022)
+
 ## 🤖 Features
 
 - Player vs Computer mode
