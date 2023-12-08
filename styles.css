@@ -1,0 +1,92 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.heading-paragraph {
+    font-size: 3vw;
+    font-weight: bold;
+    text-align: center;
+}
+
+.play-move-div {
+    display: flex;
+    flex-direction: row;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 3px solid white;
+}
+
+.left-div {
+    width: 50%;
+    height: auto;
+    border-right: 3px solid white;
+}
+
+.right-div {
+    width: 50%;
+    height: auto;
+}
+
+.div-top {
+    text-align: center;
+    font-size: 1.5vw;
+    font-weight: bold;
+    padding: 1% 0;
+}
+
+#you-play,
+#computer-play {
+    width: 35%;
+}
+
+.div-bottom {
+    font-size: 2vw;
+    font-weight: bold;
+    text-align: center;
+    padding: 1% 0;
+    border-top: 3px solid white;
+}
+
+.middle-div {
+    text-align: center;
+}
+
+.js-result {
+    font-size: 4vw;
+    font-weight: bolder;
+    line-height: 1px;
+}
+
+.js-score {
+    font-size: 1.5vw;
+}
+
+.play-image {
+    width: 100%;
+}
+
+.play-button {
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+    padding: 1%;
+    border: 3px solid white;
+    background-color: black;
+    margin: 2%;
+}
+
+.buttons-move {
+    text-align: center;
+}
+
+.button-reset {
+    text-align: center;
+}
+
+.reset-button {    
+    font-size: 1.5vw;
+    font-weight: bold;
+    padding: 0.5%;
+}
